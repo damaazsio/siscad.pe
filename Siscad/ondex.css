@@ -1,0 +1,77 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+header{
+    background-color: rgb(66, 110, 161);
+    padding: 100px;
+}
+span.siscad{
+    color: rgb(41, 5, 32);
+}
+
+h1.siscad{
+    color: white;
+    font-size: 60px;
+}
+nav{
+    text-align: end;
+    background-color: rgb(42, 43, 138);
+    padding: 10px;
+    
+    
+    
+    
+    
+}
+a.cabecalho:hover{
+    background-color: rgb(0, 0, 0);
+    padding: 10px;
+    margin: 10px;
+}
+
+a{
+    
+    color: rgb(249, 249, 249);
+    font-size: 17px;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+section{
+    padding: 2px;
+    text-align: center;
+    background-color: rgb(89, 138, 148);
+    margin: 100px;
+    border-radius: 10px;
+}
+
+
+
+    
+
+img.caatinga{
+    padding: 50px;
+    height: 200px;
+    
+}
+img.comandos{
+    padding: 100px;
+    height: 200px;
+    
+}
+img.botao{
+    padding: 20px;
+}
+h2.ccs{
+background-color: cadetblue;
+padding: 7px;
+border-radius: 10px;
+}
+h2.eg{
+    background-color: cadetblue;
+    padding: 7px;
+    border-radius: 10px;
+    }
+
+
